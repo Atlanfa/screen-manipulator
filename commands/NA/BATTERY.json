@@ -1,0 +1,19 @@
+{
+"0": {"delay_befor": 0, "action": {"move": {"x": 1047, "y": 322} }, "delay_after":0},
+"1": {"delay_befor": 0, "action": {"click": "left", "amount": 1, "hold": false }, "delay_after":0},
+"2": {"delay_befor": 0, "action": {"type": "WH" }, "delay_after":0},
+"3": {"delay_befor": 0, "action": {"move": {"x": 1047, "y": 411} }, "delay_after":0},
+"4": {"delay_befor": 0, "action": {"click": "left", "amount": 1, "hold": false }, "delay_after":0},
+"5": {"delay_befor": 0, "action": {"type": "1" }, "delay_after":0},
+"6": {"delay_befor": 0, "action": {"move": {"x": 1358, "y": 320} }, "delay_after":0},
+"7": {"delay_befor": 0, "action": {"click": "left", "amount": 1, "hold": false }, "delay_after":0},
+"8": {"delay_befor": 0, "action": {"type": "REPAIR" }, "delay_after":0},
+"9": {"delay_befor": 0, "action": {"move": {"x": 1358, "y": 410} }, "delay_after":0},
+"10": {"delay_befor": 0, "action": {"click": "left", "amount": 1, "hold": false }, "delay_after":0},
+"11": {"delay_befor": 0, "action": {"type": "REPAIRCAGE" }, "delay_after":0},
+"12": {"delay_befor": 0, "action": {"move": {"x": 343, "y": 1088} }, "delay_after":0},
+"13": {"delay_befor": 0, "action": {"click": "left", "amount": 3, "hold": false }, "delay_after":0},
+"14": {"delay_befor": 0, "action": {"move": {"x": 525, "y": 409} }, "delay_after":0},
+"15": {"delay_befor": 0, "action": {"click": "left", "amount": 1, "hold": false }, "delay_after":0},
+"16": {"delay_befor": 0, "action": {"type": "BATERY" }, "delay_after":0}
+}

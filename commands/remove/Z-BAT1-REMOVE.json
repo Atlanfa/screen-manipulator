@@ -1,0 +1,14 @@
+{
+    "0": {"delay_befor": 0, "action": {"move": {"x": 955, "y": 608} }, "delay_after":0},
+    "1": {"delay_befor": 0, "action": {"click": "left", "amount": 1, "hold": false }, "delay_after":0},
+    "2": {"delay_befor": 0, "action": {"move": {"x": 1708, "y": 529} }, "delay_after":0},
+    "3": {"delay_befor": 0, "action": {"click": "left", "amount": 1, "hold": false }, "delay_after":0},
+    "4": {"delay_befor": 0, "action": {"move": {"x": 1140, "y": 745} }, "delay_after":0},
+    "5": {"delay_befor": 0, "action": {"click": "left", "amount": 1, "hold": false }, "delay_after":0},
+    "6": {"delay_befor": 0, "action": {"move": {"x": 156, "y": 400} }, "delay_after":0},
+    "7": {"delay_befor": 0, "action": {"click": "left", "amount": 1, "hold": false }, "delay_after":0},
+    "8": {"delay_befor": 0, "action": {"move": {"x": 616, "y": 509} }, "delay_after":0},
+    "9": {"delay_befor": 0, "action": {"click": "left", "amount": 1, "hold": false }, "delay_after":0},
+    "10": {"delay_befor": 0, "action": {"move": {"x": 1133, "y": 744} }, "delay_after":0},
+    "11": {"delay_befor": 0, "action": {"click": "left", "amount": 1, "hold": false }, "delay_after":0}
+    }
